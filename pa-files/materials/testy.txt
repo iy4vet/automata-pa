@@ -1,0 +1,118 @@
+if x > 5 print
+if 3.14 < y else print
+x + y
+42
+hello
+if a = b world else world
+123.45
+variable_name
+if x + y > z - w result else result
+print
+if if x > y z else z < w result else result
+if x + y * z / w ^ v - u = q output else output
+if 999999.123456 > variable_with_underscores_123 result else another_var
+if x result else if y result else z
+if a + b - c * d / e ^ f result else g
+if condition1 > condition2 result else if condition3 < condition4 result else final
+nested_if_statement
+if x + if y > z result else w < v result else final_result
+if 0.0001 * 1000000 > epsilon_value result else scientific_notation
+extremely_long_variable_name_with_many_underscores_and_numbers_123_456_789
+if x result else y
+if a * b result else c + d
+if p / q result else r - s
+if m ^ n result else o = t
+if condition result else if another_condition result else final_value
+zero
+if 0 result else 1
+if negative_check result else positive_result
+MaximumValue
+minimum_value_check
+2xi
+3variable
+@invalid
+#symbol
+$dollar
+2.3.4
+12.
+.45invalid
+if#
+else$
+123abc_invalid
+var!able
+floating.point.error.multiple.dots
+_variable_starting_with_underscore_might_be_invalid
+identifier_with_@_symbol
+999.888.777
+number_2.5_mixed
+2e10_invalid_scientific
+0x123_hex_not_supported
+identifier$with$dollars
+1.
+.1e
+2..5
+3.14.159
+e10
+1e
+1.2.3.4.5
+identifier_ending_with_number_then_dot_5.
+mixed_123_text_456_numbers_789_and_symbols_@#$
+tab_character_	_here
+if
+else
+if x
+if x >
+if x > y
+if x > y else
+if x > else y
++ x
+x +
+if x > y z
+if x > y else z w
+( if x > y )
+if x >> y
+if x && y
+x ++ y
+if x > y then z
+if if else else
+if x > y else if else z
+if a + b * else c
+if condition else else result
+nested if without proper structure
+if x > y z else w
+if else x > y else z
+if x > y else if z else else w
+double_if if x else y
+if x > y else nested if z else w
+if x > 5
+if condition
+if x > y else
+if x >< y else z
+if a += b else c
+if condition1 && condition2 || condition3 else result
+if x != y else z
+if a <= b >= c else d
+x %= y
+result = if x else y
+if (x > y) else z
+if x > y: z else w
+if x > y then z else w endif
+condition else result
+if x > else result
+if > y else z
+if x y else z
+if x > y else
+else if x > y
+if x > y z else w v
+incomplete_if_statement if
+trailing_else else
+if if if x else y else z else w
+multiple spaces   between   tokens
+if x ++ y else z
+if x -- y else z
+if x ** y else z
+if x // y else z
+if x << y else z
+if x >> y else z
+if x & y else z
+if x | y else z
